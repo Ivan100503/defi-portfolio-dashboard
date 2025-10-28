@@ -21,7 +21,7 @@
 **Barcelona, Spain | Remote | 2022–Present**  
 Designed and managed multi-strategy investment portfolio in the digital finance space, allocating capital from private and trusted sources with a focus on sustainable yield and risk control.
 
-- **Managed a portfolio with $350K+ in assets across 10+ DeFi strategies**  
+- **Managed a portfolio with $350K+ stables + $160K in coins in assets across 10+ DeFi strategies**  
 - Executed capital allocation across protocols such as **Uniswap v2/v3/v4, Curve, Pendle, Morpho, Balancer**  
 - Built performance dashboards in Excel and data visualization, monitoring **APR, drawdowns, ROI**  
 - Conducted due diligence on protocols using tokenomics, security audits, and liquidity metrics  
